@@ -1,0 +1,20 @@
+{
+    "name": "SAS.HapticFeedback",
+    "references": [
+        "SAS.HapticFeedback.Android",
+        "SAS.HapticFeedback.iOS"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
