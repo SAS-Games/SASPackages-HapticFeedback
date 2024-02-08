@@ -2,7 +2,7 @@ namespace SAS.HapticFeedback
 {
     public static class HapticFeedback
     {
-        public static bool IsHapticFeedbackEnabled { get; set; } = true;
+        public static bool IsHapticFeedbackEnabled { get; set; }
         public static void LightFeedback()
         {
             if (!IsHapticFeedbackEnabled) return;
